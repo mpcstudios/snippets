@@ -1,5 +1,5 @@
 ### SVG Loading Animations
-tags: loader, loaders, spinner, spinners
+tags: loaders, spinners
 - http://samherbert.net/svg-loaders/
 - https://codepen.io/goapp/full/kIfDC/
 - https://codepen.io/aurer/full/jEGbA/
